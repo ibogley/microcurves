@@ -1,2 +1,2 @@
 # microcurves
-A small package I created to make my microeconomics homework a bit quicker. Inside are a few functions making it easier to plot cost curves.
+A custom package meant for analyzing various profit, cost, and utility curves in a microeconomic context
